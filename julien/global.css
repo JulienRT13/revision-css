@@ -1,0 +1,47 @@
+*{margin:0;padding:0;}
+.clear{clear:both;}
+.comment{background:url(images/templatemo_comment_icon.png) top left no-repeat;width:15px;height:13px;padding-left:20px;}
+a{color:#f4d153;text-decoration:none;}
+img{border:5px solid #7b7866;}
+ul{list-style:none;}
+a:hover{text-decoration:underline;}
+body{background: url(images/templatemo_content_bg.jpg) top left;font-family: Arial, Helvetica, sans-serif;}
+#header{width:100%;background-color:white;}
+#header #bandeau{margin:0 auto;background: url(images/templatemo_header_bg.jpg) no-repeat top;width:960px; height:255px;position:relative;}
+#header #bandeau form{position:absolute;bottom:25px;right:46px;}
+#header #bandeau form input{border:none;}
+#header #bandeau form input[type="submit"]{cursor:pointer;width:50px;background-color:transparent;}
+
+#header #menu{background: url(images/templatemo_menu_bg.jpg) top left repeat-x;height:48px;}
+#header #menu #nav{display:block;width:960px;margin:0 auto;list-style:none;line-height:25px;padding-top:7px;}
+#header #menu #nav li{float:left;border-right:1px solid #4c4a3c;padding-right:50px;padding-left:50px;height:35px;}
+#header #menu #nav li a{color:#2f2e27;margin:0 auto;text-decoration:none;}
+#header #menu #nav li a:hover{color:white;}
+#content{width:960px;margin:0 auto;margin-top:20px;}
+#content #right-column{float:left;width:270px;background-color:#696653;border:5px #7b7866 solid;margin-right:30px;color:white;}
+#content #right-column .bloc-right-column{margin-bottom:20px;}
+#content #right-column .bloc-right-column .titre{margin:0 auto;margin-top:10px;background:url(images/templatemo_left_column_title_bg.jpg) top left no-repeat;width:260px;height:65px;}
+#content #right-column .bloc-right-column .titre h2{position:relative;top:13px;left:20px;}
+#content #right-column .bloc-right-column .content{font-size:12px;width:240px;margin:0 auto;margin-top:20px;}
+
+#content #left-column{float:left;width:590px;}
+#content #left-column .post{margin-bottom:35px;}
+#content #left-column .post .right{float:left;width:70px;}
+#content #left-column .post .right .date{background:url(images/templatemo_date_bg.png) top left no-repeat;width:98px;height:90px;}
+#content #left-column .post .right .date span{color:white;font-size:20px;line-height:32px;position:relative;top:14px;left:30px;text-align:center;}
+#content #left-column .post .left{float:left;width:475px;margin-left:40px;}
+#content #left-column .post .left .header h1 a{color:#11616a;text-decoration:none;}
+#content #left-column .post .left .header h1 a:hover{text-decoration:underline;}
+#content #left-column .post .left .header .info{color:white;font-size:12px;margin:10px 0 10px 0;}
+#content #left-column .post .left .content-post{margin-top:10px;color:white;line-height:1.5em;font-size:12px;}
+
+#footer{background-color:black;}
+#footer img{border:none;}
+#footer #bandeau-haut{background:url(images/templatemo_bottom_panel_bg.jpg) top no-repeat;margin:0 auto; width:960px;height:265px;color:white;font-size:12px;}
+#footer #bandeau-haut #bloc-gauche{float:left;width:300px;margin-top:20px;line-height:18px;}
+#footer #bandeau-haut #bloc-gauche ul li{border-bottom:1px solid #36241b;padding-top:5px;padding-bottom:5px;}
+#footer #bandeau-haut #bloc-gauche h3{margin-bottom:20px;font-size:17px;}
+#footer #bandeau-haut #bloc-droite{float:right;width:300px;text-align:right;margin-top:20px;line-height:18px;}
+#footer #bandeau-haut #bloc-droite h3{margin-bottom:20px;font-size:17px;}
+
+#bandeau-bas{background-color:#151513;border:1px solid #36352c;height:30px;color:white;text-align:center;padding-top:20px;font-size:12px;}
